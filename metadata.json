@@ -1,0 +1,5 @@
+{
+  "name": "Universal Document Converter",
+  "description": "An easy-to-use web application to convert images into a single PDF document, and convert PDF files into structured LaTeX documents using the Gemini API.",
+  "requestFramePermissions": []
+}
